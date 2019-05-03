@@ -1,0 +1,1 @@
+# did-common-go
